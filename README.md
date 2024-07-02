@@ -10,6 +10,7 @@ Style a custom 404 error page using HTML and CSS. The 404 page is a user-friendl
 ## Files
 
 - `index.html` - The main HTML file that structures the widget.
+
 - `styles.css` - The CSS file for styling the widget.
 ##Table of Contents
 
@@ -17,8 +18,8 @@ Style a custom 404 error page using HTML and CSS. The 404 page is a user-friendl
 2.CSS Styling
 Customization
 
-## screenshot
-
+## Screenshots
+![Screenshot 2024-07-02 102814](https://github.com/ab1ngeorge/404-page/assets/131862797/ecb63be0-26f9-4b30-84ef-b95cc40b1827)
 
 Before you begin, make sure you have the following:
 
