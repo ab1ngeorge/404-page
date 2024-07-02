@@ -1,7 +1,7 @@
 # 404 Page
 
 ## Demo
-Check out the live demo [here]([https://ab1ngeorge.github.io/Weathertrend-Widget/](https://ab1ngeorge.github.io/404-page/)).
+Check out the live demo [here](https://ab1ngeorge.github.io/404-page/).
 
 
 ## Overview
